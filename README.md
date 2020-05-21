@@ -1,3 +1,5 @@
+![Azure Static Web Apps CI/CD](https://github.com/marxxxx/asw-demo2/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
+
 # AngularBasic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
